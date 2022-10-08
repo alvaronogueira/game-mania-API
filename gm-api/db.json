@@ -2,37 +2,37 @@
   "noticias": [
     {
       "id": 1,
-      "image": "",
+      "image": "assets/img/submarine.png",
       "title": "test",
       "description": "testing json"
     },
     {
       "id": 2,
-      "image": "",
+      "image": "assets/img/neymar.png",
       "title": "test2",
       "description": "testing json"
     },
     {
       "id": 3,
-      "image": "",
+      "image": "assets/img/super-mario.png",
       "title": "test3",
       "description": "testing json"
     },
     {
       "id": 4,
-      "image": "",
+      "image": "assets/img/gt-san-andreas.png",
       "title": "test4",
       "description": "testing json"
     },
     {
       "id": 5,
-      "image": "",
+      "image": "assets/img/cuphead.png",
       "title": "test5",
       "description": "testing json"
     },
     {
       "id": 6,
-      "image": "",
+      "image": "assets/img/bitcoin.png",
       "title": "test6",
       "description": "testing json"
     }
