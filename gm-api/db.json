@@ -3,38 +3,44 @@
     {
       "id": 1,
       "image": "assets/img/submarine.png",
-      "title": "test",
-      "description": "testing json"
+      "titulo": "test",
+      "descricao": "testing json"
     },
     {
       "id": 2,
       "image": "assets/img/neymar.png",
-      "title": "test2",
-      "description": "testing json"
+      "titulo": "test2",
+      "descricao": "testing json"
     },
     {
       "id": 3,
       "image": "assets/img/super-mario.png",
-      "title": "test3",
-      "description": "testing json"
+      "titulo": "test3",
+      "descricao": "testing json"
     },
     {
       "id": 4,
       "image": "assets/img/gt-san-andreas.png",
-      "title": "test4",
-      "description": "testing json"
+      "titulo": "test4",
+      "descricao": "testing json"
     },
     {
       "id": 5,
       "image": "assets/img/cuphead.png",
-      "title": "test5",
-      "description": "testing json"
+      "titulo": "test5",
+      "descricao": "testing json"
     },
     {
       "id": 6,
       "image": "assets/img/bitcoin.png",
-      "title": "test6",
-      "description": "testing json"
+      "titulo": "test6",
+      "descricao": "testing json"
+    },
+    {
+      "image": "",
+      "title": "testSeven",
+      "description": "testing POST json",
+      "id": 7
     }
   ]
 }

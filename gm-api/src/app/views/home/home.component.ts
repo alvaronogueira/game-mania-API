@@ -18,7 +18,7 @@ export class HomeComponent implements OnInit {
   }
 
   carregarNoticias(){
-    this.noticiasService.getNoticias().subscribe((noticiasRecebidas: Noticias[]) => {
+    this.noticiasService.getNoticias().subscribe( (noticiasRecebidas: Noticias[]) => {
       this.listaNoticias = noticiasRecebidas;
       console.log(this.listaNoticias);
     }
