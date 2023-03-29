@@ -1,4 +1,24 @@
 {
+  "users": [
+    {
+      "email": "email@email.com",
+      "password": "olhasenha",
+      "nome": "Curioso",
+      "id": 1
+    },
+    {
+      "email": "testing@email.com",
+      "password": "$2a$10$C7NiMiM0TYP4nx7mO53JIepyQCgBLci7gTX8tmObYpmcsmfboUbZG",
+      "nome": "ulalá",
+      "id": 3
+    },
+    {
+      "email": "homemcorreio@email.com",
+      "password": "$2a$10$Qy9IMbUyto8A8z5lpf3cI.Tj7mPqjAzjAw6w1SZY9tE29OHsvrtFa",
+      "nome": "wilsooooon",
+      "id": 4
+    }
+  ],
   "noticias": [
     {
       "id": 1,

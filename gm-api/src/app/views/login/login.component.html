@@ -1,0 +1,18 @@
+<main>
+    <form #useForm="ngForm" (ngSubmit)="onSubmit()">
+        <div class="campo-label">
+            <label for="email">Email</label>
+            <input type="email" id="email" [(ngModel)]="loginModel.email">
+        </div>
+    
+        <div class="campo-label">
+            <label for="senha">Senha</label>
+            <input type="password" id="senha" [(ngModel)]="loginModel.password">
+        </div>
+        
+        <input id="botao-enviar" type="submit" value="Fazer Login">
+    </form>
+</main>
+
+
+
